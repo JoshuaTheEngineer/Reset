@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: c98ed6a5028e84d88a95ac99b5b0da92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2507788530559952262
+    second: Zacharie_cat-7
+  - first:
+      213: -3136989400971343322
+    second: Zacharie_cat-8
+  - first:
+      213: 4926576231661814404
+    second: Zacharie_3
+  - first:
+      213: 5912649770025507440
+    second: Zacharie_dialogue-normal
+  - first:
+      213: 3152288914250088338
+    second: Zacharie_dialogue-cat
+  - first:
+      213: 2626351163274594159
+    second: Zacharie_cat-6
+  - first:
+      213: -7366025736349898993
+    second: Zacharie_cat-7
+  - first:
+      213: -5006824628739665995
+    second: Zacharie_cat-8
+  - first:
+      213: 5595415039368843886
+    second: Zacharie_3
+  - first:
+      213: 5287843035005224081
+    second: Zacharie_4
+  - first:
+      213: -7847153894740640382
+    second: Zacharie_5
+  - first:
+      213: -3396895197588374401
+    second: Zacharie_cat-3
+  - first:
+      213: 2416494109978493500
+    second: Zacharie_cat-4
+  - first:
+      213: -6995967226733001806
+    second: Zacharie_cat-5
+  - first:
+      213: -2458159616169563652
+    second: Zacharie_0
+  - first:
+      213: -4504217085839520810
+    second: Zacharie_1
+  - first:
+      213: 8851189236575174017
+    second: Zacharie_2
+  - first:
+      213: -2506486520482759206
+    second: Zacharie_cat-0
+  - first:
+      213: -7914265330769079042
+    second: Zacharie_cat-1
+  - first:
+      213: 1221570773957850004
+    second: Zacharie_cat-2
+  - first:
+      213: -8071623124591653114
+    second: Zacharie_9
+  - first:
+      213: 2086462007428180385
+    second: Zacharie_10
+  - first:
+      213: 7658710888208168727
+    second: Zacharie_11
+  - first:
+      213: 5130383902037043351
+    second: Zacharie_cat-9
+  - first:
+      213: -8560434244336747853
+    second: Zacharie_cat-10
+  - first:
+      213: 1556587741358089377
+    second: Zacharie_cat-11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zacharie_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 137
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68523d7b1647dc220800000000000000
+      internalID: 2507788530559952262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 138
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a00f2a2cc2774d0800000000000000
+      internalID: -3136989400971343322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 137
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482c5170bf6be5440800000000000000
+      internalID: 4926576231661814404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_dialogue-normal
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 113
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a5aa7a3a3fd0250800000000000000
+      internalID: 5912649770025507440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_dialogue-cat
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 111
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f3743e01e2fbb20800000000000000
+      internalID: 3152288914250088338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_cat-6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 135
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f678a6ec77ca27420800000000000000
+      internalID: 2626351163274594159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_cat-7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 136
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07aa72ae9e96c990800000000000000
+      internalID: -7366025736349898993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_cat-8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 135
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf8b47078f248ab0800000000000000
+      internalID: -5006824628739665995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 105
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6255702558e6ad40800000000000000
+      internalID: 5595415039368843886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 106
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19482816931326940800000000000000
+      internalID: 5287843035005224081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 105
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d3926db1f491390800000000000000
+      internalID: -7847153894740640382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_cat-3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 103
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cb388b0ddcbd0d0800000000000000
+      internalID: -3396895197588374401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_cat-4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 104
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c328713079c198120800000000000000
+      internalID: 2416494109978493500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_cat-5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 103
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b30e4e9fd459ee90800000000000000
+      internalID: -6995967226733001806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 73
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9a00d5adcd2edd0800000000000000
+      internalID: -2458159616169563652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 74
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db4a4fbc6ecd71c0800000000000000
+      internalID: -4504217085839520810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 73
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18df2dd07bdb5da70800000000000000
+      internalID: 8851189236575174017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_cat-0
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 71
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addf1502acb273dd0800000000000000
+      internalID: -2506486520482759206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_cat-1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 72
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4d15dfc91ea2290800000000000000
+      internalID: -7914265330769079042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_cat-2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 71
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493b1c19524e3f010800000000000000
+      internalID: 1221570773957850004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 41
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fc2e19885dbff80800000000000000
+      internalID: -8071623124591653114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 42
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9ea16242a94fc10800000000000000
+      internalID: 2086462007428180385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 41
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7177019a9f4394a60800000000000000
+      internalID: 7658710888208168727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_cat-9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 39
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798ec4a1af8c23740800000000000000
+      internalID: 5130383902037043351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_cat-10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 40
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baf73fe86a333980800000000000000
+      internalID: -8560434244336747853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zacharie_cat-11
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 39
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a46069bd4c1a9510800000000000000
+      internalID: 1556587741358089377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

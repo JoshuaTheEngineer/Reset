@@ -1,0 +1,1714 @@
+fileFormatVersion: 2
+guid: 8880f1465aaf648aeb5a89eb87b600aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6953353133535369817
+    second: Spectres_battle-common-0
+  - first:
+      213: 729496771726731501
+    second: Spectres_battle-common-1
+  - first:
+      213: -5239917398049094687
+    second: Spectres_battle-magnolia
+  - first:
+      213: 7927187450393905040
+    second: Spectres_abstract-6
+  - first:
+      213: 199296332172588322
+    second: Spectres_abstract-7
+  - first:
+      213: 8686971863510729009
+    second: Spectres_abstract-8
+  - first:
+      213: -1822427557202263366
+    second: Spectres_battle-common-0
+  - first:
+      213: 4290020192156046471
+    second: Spectres_battle-common-1
+  - first:
+      213: -6237030000903054487
+    second: Spectres_battle-magnolia
+  - first:
+      213: 5589714769429100667
+    second: Spectres_battle-january
+  - first:
+      213: -4398448157702561325
+    second: Spectres_battle-tiburce
+  - first:
+      213: -7769901083194276120
+    second: Spectres_battle-troquantary
+  - first:
+      213: -1551954516797840540
+    second: Spectres_battle-arpagon
+  - first:
+      213: -916861269706624422
+    second: Spectres_3
+  - first:
+      213: -1098490228926730725
+    second: Spectres_4
+  - first:
+      213: -7434608902412131376
+    second: Spectres_5
+  - first:
+      213: 2789980529265402814
+    second: Spectres_abstract-3
+  - first:
+      213: -8813129748089864722
+    second: Spectres_abstract-4
+  - first:
+      213: 7107472191865806996
+    second: Spectres_abstract-5
+  - first:
+      213: -5178450245610116967
+    second: Spectres_battle-fat
+  - first:
+      213: -5405334443152183680
+    second: Spectres_battle-one-eyed
+  - first:
+      213: 4661396480537849639
+    second: Spectres_0
+  - first:
+      213: -5365013257038314598
+    second: Spectres_1
+  - first:
+      213: 3828536120020694250
+    second: Spectres_2
+  - first:
+      213: 4040680157746792264
+    second: Spectres_abstract-0
+  - first:
+      213: -3568166180940717956
+    second: Spectres_abstract-1
+  - first:
+      213: -1850876113859453784
+    second: Spectres_abstract-2
+  - first:
+      213: -7255448123441337301
+    second: Spectres_battle-ah-ah_fat
+  - first:
+      213: -6935226740539452738
+    second: Spectres_battle-chinese-ah-ah_fat
+  - first:
+      213: -6383217462835885876
+    second: Spectres_battle-dummie
+  - first:
+      213: -5377846680931508407
+    second: Spectres_battle-upside-down
+  - first:
+      213: -6281729968149177984
+    second: Spectres_9
+  - first:
+      213: 8992848672633123877
+    second: Spectres_10
+  - first:
+      213: 5782611740675280596
+    second: Spectres_11
+  - first:
+      213: 1087642768303021350
+    second: Spectres_abstract-9
+  - first:
+      213: 3035382503956784136
+    second: Spectres_abstract-10
+  - first:
+      213: -8107892461441004897
+    second: Spectres_abstract-11
+  - first:
+      213: -5874203286702145041
+    second: Spectres_battle-massu
+  - first:
+      213: 2839633820308211038
+    second: Spectres_battle-porter
+  - first:
+      213: 86303187755903793
+    second: Spectres_battle-gilles-de-rais
+  - first:
+      213: -7535514325097166181
+    second: Spectres_battle-whale
+  - first:
+      213: 4497572268599110621
+    second: Spectres_battle-junior-0
+  - first:
+      213: 6735052932972770270
+    second: Spectres_battle-junior-1
+  - first:
+      213: -7501614921395866640
+    second: Spectres_battle-blind
+  - first:
+      213: 9049426479130455382
+    second: Spectres_battle-mute
+  - first:
+      213: 4355081962001039247
+    second: Spectres_battle-crown-of-the-dead
+  - first:
+      213: 689500208062085213
+    second: Spectres_battle-von-gacy
+  - first:
+      213: -570969311876114358
+    second: Spectres_battle-infernal
+  - first:
+      213: 4508513646595603018
+    second: Spectres_battle-junior-2
+  - first:
+      213: 4632609342366236562
+    second: Spectres_battle-obese
+  - first:
+      213: 22000431881175424
+    second: Spectres_battle-bear
+  - first:
+      213: 1496911103512744031
+    second: Spectres_battle-abstract-1
+  - first:
+      213: 4672158787931350025
+    second: Spectres_battle-abstract-2
+  - first:
+      213: 5774183427910240345
+    second: Spectres_battle-secretary-2
+  - first:
+      213: 8940626903150362988
+    second: Spectres_battle-secretary-1
+  - first:
+      213: -6323026883393691990
+    second: Spectres_battle-secretary-0
+  - first:
+      213: 590600754246027434
+    second: Spectres_teddy-shadow-0
+  - first:
+      213: 6416989797918693714
+    second: Spectres_teddy-shadow-1
+  - first:
+      213: -3691682288376965785
+    second: Spectres_teddy-shadow-2
+  - first:
+      213: -4628218797230204136
+    second: Spectres_battle-ballman
+  - first:
+      213: 862443661075988264
+    second: Spectres_teddy-0
+  - first:
+      213: 5839430331483386039
+    second: Spectres_teddy-1
+  - first:
+      213: 1834195463277943286
+    second: Spectres_teddy-2
+  - first:
+      213: -5267334729123808435
+    second: Spectres_teddy-shadow-3
+  - first:
+      213: -6710849722131273074
+    second: Spectres_teddy-shadow-4
+  - first:
+      213: 1657334097802970164
+    second: Spectres_teddy-shadow-5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spectres_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 398
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a9932a5d54f7060800000000000000
+      internalID: 6953353133535369817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 397
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8e097e271bf1a00800000000000000
+      internalID: 729496771726731501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 395
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e305e483e21847b0800000000000000
+      internalID: -5239917398049094687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_abstract-6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 399
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097c9a07cf6030e60800000000000000
+      internalID: 7927187450393905040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_abstract-7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 397
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2257f2c45fa04c200800000000000000
+      internalID: 199296332172588322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_abstract-8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 396
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131ce5262e25e8870800000000000000
+      internalID: 8686971863510729009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-common-0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 384
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab28318dacf65b6e0800000000000000
+      internalID: -1822427557202263366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-common-1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 378
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784d6b0a2a6398b30800000000000000
+      internalID: 4290020192156046471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-magnolia
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 386
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b18b6624e9179a0800000000000000
+      internalID: -6237030000903054487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-january
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 325
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78739b97f7a29d40800000000000000
+      internalID: 5589714769429100667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-tiburce
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 369
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1ea2d54b295f2c0800000000000000
+      internalID: -4398448157702561325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-troquantary
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 362
+        width: 92
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6484ca124cb2490800000000000000
+      internalID: -7769901083194276120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-arpagon
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 363
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463a3bee699567ae0800000000000000
+      internalID: -1551954516797840540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 366
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52b2de6887a643f0800000000000000
+      internalID: -916861269706624422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 365
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ea593f4f061c0f0800000000000000
+      internalID: -1098490228926730725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 364
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3a4cfe796f2d890800000000000000
+      internalID: -7434608902412131376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_abstract-3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 368
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3ee19628008b620800000000000000
+      internalID: 2789980529265402814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_abstract-4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 368
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedfca5203971b580800000000000000
+      internalID: -8813129748089864722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_abstract-5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 367
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490e02f2d40d2a260800000000000000
+      internalID: 7107472191865806996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-fat
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 298
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998ef5f20f27228b0800000000000000
+      internalID: -5178450245610116967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-one-eyed
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 325
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eeabf66f46cf4b0800000000000000
+      internalID: -5405334443152183680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 334
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fe6b3e66b90b040800000000000000
+      internalID: 4661396480537849639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 333
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9348f62ed4ab85b0800000000000000
+      internalID: -5365013257038314598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 332
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4f5931151b12530800000000000000
+      internalID: 3828536120020694250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_abstract-0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 335
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847877de131631830800000000000000
+      internalID: 4040680157746792264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_abstract-1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 335
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70677d63c35b7ec0800000000000000
+      internalID: -3568166180940717956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_abstract-2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 335
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acd6261bfd5056e0800000000000000
+      internalID: -1850876113859453784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-ah-ah_fat
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 330
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c210c6f587f4b90800000000000000
+      internalID: -7255448123441337301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-chinese-ah-ah_fat
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 329
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb21b5d160021cf90800000000000000
+      internalID: -6935226740539452738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-dummie
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 337
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8c89b89814a67a0800000000000000
+      internalID: -6383217462835885876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-upside-down
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 257
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f509ecfec0e55b0800000000000000
+      internalID: -5377846680931508407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 300
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089da8140efc2d8a0800000000000000
+      internalID: -6281729968149177984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 301
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524f32bb8340dcc70800000000000000
+      internalID: 8992848672633123877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 302
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de04f49db6ff3050800000000000000
+      internalID: 5782611740675280596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_abstract-9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 302
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d593fc555181f00800000000000000
+      internalID: 1087642768303021350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_abstract-10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 304
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804a7c12e48df1a20800000000000000
+      internalID: 3035382503956784136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_abstract-11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 303
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9acdb683cafa7f80800000000000000
+      internalID: -8107892461441004897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-massu
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 248
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1cfadcb33aa7ea0800000000000000
+      internalID: -5874203286702145041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-porter
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 247
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5508af1ae7686720800000000000000
+      internalID: 2839633820308211038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-gilles-de-rais
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 247
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bac21ca4c923100800000000000000
+      internalID: 86303187755903793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-whale
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 153
+        width: 198
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a47bc65a97c6790800000000000000
+      internalID: -7535514325097166181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-junior-0
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 209
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb6f7d26269a6e30800000000000000
+      internalID: 4497572268599110621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-junior-1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 220
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed37b4d65f6b77d50800000000000000
+      internalID: 6735052932972770270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-blind
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 193
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3fd6869f8e4e790800000000000000
+      internalID: -7501614921395866640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-mute
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 202
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65da595df65069d70800000000000000
+      internalID: 9049426479130455382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-crown-of-the-dead
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 170
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f78c068fb507c30800000000000000
+      internalID: 4355081962001039247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-von-gacy
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 158
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58391e39c8919900800000000000000
+      internalID: 689500208062085213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-infernal
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 155
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4899fb9f628318f0800000000000000
+      internalID: -570969311876114358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-junior-2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 194
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4af4524645719e30800000000000000
+      internalID: 4508513646595603018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-obese
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f35eaf6a55a4040800000000000000
+      internalID: 4632609342366236562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-bear
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 141
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081ce27b6492e4000800000000000000
+      internalID: 22000431881175424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-abstract-1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 143
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f501739b7b816c410800000000000000
+      internalID: 1496911103512744031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-abstract-2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 142
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9042ed8d9a7d6d040800000000000000
+      internalID: 4672158787931350025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-secretary-2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 37
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95889881c35022050800000000000000
+      internalID: 5774183427910240345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-secretary-1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 38
+        width: 46
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6104978ccc731c70800000000000000
+      internalID: 8940626903150362988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-secretary-0
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 37
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaed216ec881048a0800000000000000
+      internalID: -6323026883393691990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_teddy-shadow-0
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 122
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa889e0c14c323800800000000000000
+      internalID: 590600754246027434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_teddy-shadow-1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 122
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259df38f83abd0950800000000000000
+      internalID: 6416989797918693714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_teddy-shadow-2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 122
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76590b1a48284ccc0800000000000000
+      internalID: -3691682288376965785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_battle-ballman
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 95
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bde48768345cfb0800000000000000
+      internalID: -4628218797230204136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_teddy-0
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 95
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fb839b0f308fb00800000000000000
+      internalID: 862443661075988264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_teddy-1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 96
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b075b6a2f2d90150800000000000000
+      internalID: 5839430331483386039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_teddy-2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 94
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9905d4e0f547910800000000000000
+      internalID: 1834195463277943286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_teddy-shadow-3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b3f7da8faa6e6b0800000000000000
+      internalID: -5267334729123808435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_teddy-shadow-4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a265bbbb54ed2a0800000000000000
+      internalID: -6710849722131273074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spectres_teddy-shadow-5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 72
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43440bdb498000710800000000000000
+      internalID: 1657334097802970164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

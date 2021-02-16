@@ -1,0 +1,1546 @@
+fileFormatVersion: 2
+guid: 5ac8daf34e9354a53bce6aa2ceb32bb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7184183473199626779
+    second: Elsen_mega-0
+  - first:
+      213: -4157303756866401499
+    second: Elsen_mega-1
+  - first:
+      213: -6619572124277721882
+    second: Elsen_mega-2
+  - first:
+      213: 8957411148510012291
+    second: Elsen_dialogue-normal
+  - first:
+      213: 6156194897404322756
+    second: Elsen_dialogue-miner
+  - first:
+      213: 4433506737792759678
+    second: Elsen_dialogue-normal-addiction
+  - first:
+      213: -4297516441354872285
+    second: Elsen_dialogue-miner-addiction
+  - first:
+      213: 6107291134390778117
+    second: Elsen_panic-6
+  - first:
+      213: 222455492347960662
+    second: Elsen_panic-7
+  - first:
+      213: 3280372477867166005
+    second: Elsen_panic-8
+  - first:
+      213: 3528539605949427667
+    second: Elsen_addict-6
+  - first:
+      213: -4010235826080473774
+    second: Elsen_addict-7
+  - first:
+      213: -5430975442235965319
+    second: Elsen_addict-8
+  - first:
+      213: 9124994316141837649
+    second: Elsen_6
+  - first:
+      213: 8755681227841642231
+    second: Elsen_7
+  - first:
+      213: -6172826919191238391
+    second: Elsen_8
+  - first:
+      213: -1063890062782335937
+    second: Elsen_miner-6
+  - first:
+      213: -7305580483396081268
+    second: Elsen_miner-7
+  - first:
+      213: -3543836831795617286
+    second: Elsen_miner-8
+  - first:
+      213: 7275912961055033168
+    second: Elsen_stand-pink
+  - first:
+      213: -6455598324941855809
+    second: Elsen_panic-3
+  - first:
+      213: -4098831998915441905
+    second: Elsen_panic-4
+  - first:
+      213: -6021473653442263860
+    second: Elsen_panic-5
+  - first:
+      213: -6240934092824249600
+    second: Elsen_addict-3
+  - first:
+      213: 4196653384042684613
+    second: Elsen_addict-4
+  - first:
+      213: 805729127030448933
+    second: Elsen_addict-5
+  - first:
+      213: 914173100499571669
+    second: Elsen_3
+  - first:
+      213: 8890153206313436481
+    second: Elsen_4
+  - first:
+      213: 8151110962229695290
+    second: Elsen_5
+  - first:
+      213: -4381942128598502414
+    second: Elsen_miner-3
+  - first:
+      213: 4113318319361195133
+    second: Elsen_miner-4
+  - first:
+      213: -8496320478596390698
+    second: Elsen_miner-5
+  - first:
+      213: 1655544997852108957
+    second: Elsen_sitting-pink
+  - first:
+      213: -8244113682756107938
+    second: Elsen_panic-0
+  - first:
+      213: 7012176733042646741
+    second: Elsen_panic-1
+  - first:
+      213: 5175439798403446254
+    second: Elsen_panic-2
+  - first:
+      213: 2792180315365372520
+    second: Elsen_addict-0
+  - first:
+      213: 6136410515503391835
+    second: Elsen_addict-1
+  - first:
+      213: 5593651669427709942
+    second: Elsen_addict-2
+  - first:
+      213: -8318122369068691177
+    second: Elsen_0
+  - first:
+      213: 3384896312581802532
+    second: Elsen_1
+  - first:
+      213: -5388344295318648140
+    second: Elsen_2
+  - first:
+      213: 3224506521106527769
+    second: Elsen_miner-0
+  - first:
+      213: -6340799954807967219
+    second: Elsen_miner-1
+  - first:
+      213: 5545404301498783597
+    second: Elsen_miner-2
+  - first:
+      213: -5141673976103298844
+    second: Elsen_standing-green
+  - first:
+      213: -3988589556630604728
+    second: Elsen_panic-9
+  - first:
+      213: 5839276182338223429
+    second: Elsen_panic-10
+  - first:
+      213: 7725164031661879771
+    second: Elsen_panic-11
+  - first:
+      213: -8432115371035148467
+    second: Elsen_addict-9
+  - first:
+      213: -8824969738107808017
+    second: Elsen_addict-10
+  - first:
+      213: 6175948541730546614
+    second: Elsen_addict-11
+  - first:
+      213: 2517465511668365429
+    second: Elsen_9
+  - first:
+      213: 4205538570905604138
+    second: Elsen_10
+  - first:
+      213: -868562816493291067
+    second: Elsen_11
+  - first:
+      213: -2102772119500485711
+    second: Elsen_miner-9
+  - first:
+      213: -7958643743814203962
+    second: Elsen_miner-10
+  - first:
+      213: -3915986354546099703
+    second: Elsen_miner-11
+  - first:
+      213: -7603711078179409370
+    second: Elsen_sitting-green
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elsen_mega-0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 187
+        width: 176
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1abb413ec853b360800000000000000
+      internalID: 7184183473199626779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_mega-1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 187
+        width: 176
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bc49c624a4e46c0800000000000000
+      internalID: -4157303756866401499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_mega-2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 187
+        width: 176
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e43957993e8224a0800000000000000
+      internalID: -6619572124277721882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_dialogue-normal
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 133
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383201e2bfd1f4c70800000000000000
+      internalID: 8957411148510012291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_dialogue-miner
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 133
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c36bdb64a23f6550800000000000000
+      internalID: 6156194897404322756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_dialogue-normal-addiction
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 133
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77307763eaf68d30800000000000000
+      internalID: 4433506737792759678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_dialogue-miner-addiction
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 133
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a54a8d0972c54c0800000000000000
+      internalID: -4297516441354872285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_panic-6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 147
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509314dcde471c450800000000000000
+      internalID: 6107291134390778117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_panic-7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 137
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d1cb77712561300800000000000000
+      internalID: 222455492347960662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_panic-8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 147
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5398d327369368d20800000000000000
+      internalID: 3280372477867166005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_addict-6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 148
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df238c9314e7f030800000000000000
+      internalID: 3528539605949427667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_addict-7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 151
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d9de863c7c858c0800000000000000
+      internalID: -4010235826080473774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_addict-8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 148
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970c7ad1c9c41a4b0800000000000000
+      internalID: -5430975442235965319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 106
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15db717fbfd72ae70800000000000000
+      internalID: 9124994316141837649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 107
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe9e08efad628970800000000000000
+      internalID: 8755681227841642231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 106
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90923ad3f96b55aa0800000000000000
+      internalID: -6172826919191238391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_miner-6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 105
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f347ac7ef9d4c31f0800000000000000
+      internalID: -1063890062782335937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_miner-7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 106
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c896629c14d5d9a90800000000000000
+      internalID: -7305580483396081268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_miner-8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 105
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af160e27d23c1dec0800000000000000
+      internalID: -3543836831795617286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_stand-pink
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 100
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0578854e94c39f460800000000000000
+      internalID: 7275912961055033168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_panic-3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 116
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3eb35d68b1966a0800000000000000
+      internalID: -6455598324941855809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_panic-4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 114
+        width: 12
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5474828, y: 0.50000036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b04a673060e17c0800000000000000
+      internalID: -4098831998915441905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_panic-5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 117
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc443368d9d6f6ca0800000000000000
+      internalID: -6021473653442263860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_addict-3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 117
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bf59a228fb369a0800000000000000
+      internalID: -6240934092824249600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_addict-4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 118
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c02e4994028d3a30800000000000000
+      internalID: 4196653384042684613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_addict-5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 117
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523e5d14f568e2b00800000000000000
+      internalID: 805729127030448933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 75
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d39e76679bcfac00800000000000000
+      internalID: 914173100499571669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 75
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145cc153d3b206b70800000000000000
+      internalID: 8890153206313436481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 75
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a335e74db309e1170800000000000000
+      internalID: 8151110962229695290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_miner-3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 74
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3319eb9d63033c0800000000000000
+      internalID: -4381942128598502414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_miner-4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 74
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c71a9d731751930800000000000000
+      internalID: 4113318319361195133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_miner-5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 74
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0a2674a81071a80800000000000000
+      internalID: -8496320478596390698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_sitting-pink
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 71
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9856a2776da9f610800000000000000
+      internalID: 1655544997852108957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_panic-0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 82
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e518263e846079d80800000000000000
+      internalID: -8244113682756107938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_panic-1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 82
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de144b2691405160800000000000000
+      internalID: 7012176733042646741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_panic-2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 82
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5b144731bd2d740800000000000000
+      internalID: 5175439798403446254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_addict-0
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 84
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862f0360431dfb620800000000000000
+      internalID: 2792180315365372520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_addict-1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 85
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b542d8c0ad8e82550800000000000000
+      internalID: 6136410515503391835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_addict-2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 84
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f762819e84a0ad40800000000000000
+      internalID: 5593651669427709942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 41
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7111e61d6c7109c80800000000000000
+      internalID: -8318122369068691177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 44
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ac7f8234199fe20800000000000000
+      internalID: 3384896312581802532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 42
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba870e7961c835b0800000000000000
+      internalID: -5388344295318648140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_miner-0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 41
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9163c76c89fbfbc20800000000000000
+      internalID: 3224506521106527769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_miner-1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 42
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02bbdd3904f008a0800000000000000
+      internalID: -6340799954807967219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_miner-2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 41
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6712c6d4db35fc40800000000000000
+      internalID: 5545404301498783597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_standing-green
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 40
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e81e7fa2ca15a8b0800000000000000
+      internalID: -5141673976103298844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_panic-9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 53
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84433324eeea5a8c0800000000000000
+      internalID: -3988589556630604728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_panic-10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 50
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d3ba100c6490150800000000000000
+      internalID: 5839276182338223429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_panic-11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 52
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1b4d2d1cb453b60800000000000000
+      internalID: 7725164031661879771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_addict-9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 53
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fb65ccebb1bfa80800000000000000
+      internalID: -8432115371035148467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_addict-10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 53
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe61386a7c8678580800000000000000
+      internalID: -8824969738107808017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_addict-11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 53
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3e0f42a7065b550800000000000000
+      internalID: 6175948541730546614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5783a457b85dfe220800000000000000
+      internalID: 2517465511668365429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 11
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2058006c031d5a30800000000000000
+      internalID: 4205538570905604138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 11
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9fdc168be32f3f0800000000000000
+      internalID: -868562816493291067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_miner-9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 10
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb0495f5e371d2e0800000000000000
+      internalID: -2102772119500485711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_miner-10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 10
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5c1148ea73d8190800000000000000
+      internalID: -7958643743814203962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_miner-11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 10
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ab008882f97a9c0800000000000000
+      internalID: -3915986354546099703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elsen_sitting-green
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 10
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622f9628f013a7690800000000000000
+      internalID: -7603711078179409370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
