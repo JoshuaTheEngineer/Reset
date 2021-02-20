@@ -12,13 +12,11 @@ public class PlayerController : MonoBehaviour
         moving.x = moving.y = 0;
         float move_x = Input.GetAxis("Horizontal");
         float move_y = Input.GetAxis("Vertical");
-        if (move_x != 0)
-        {
+        if (move_x != 0) {
             flip_x = move_x > 0;
             moving.x = flip_x ? 1 : -1;
         }
-        if (move_y != 0)
-        {
+        if (move_y != 0) {
             flip_y = move_y > 0;
             moving.y = flip_y ? 1 : -1;
         }
